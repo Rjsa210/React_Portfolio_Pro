@@ -1,10 +1,8 @@
 import React from "react";
-
+import ContactComponent from "../components/ContactComponent";
 function Contact() {
   return(
-    <div>
-      <p>You are on the Contact page</p>
-    </div>
+    <ContactComponent />
   )
 }
 

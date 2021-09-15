@@ -1,9 +1,10 @@
 import React from "react";
+import Quote from "../components/Quote";
 
 function Home() {
   return(
     <div>
-      <p>You are on the home page</p>
+      <Quote />
     </div>
   )
 }

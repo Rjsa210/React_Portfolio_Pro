@@ -1,0 +1,19 @@
+.display-3,
+.display-4 {
+  color:#cccccc;
+  font-weight: lighter;
+  text-shadow: 0px 1px 6px;
+}
+.display-6{
+  color: #999999;
+}
+
+.quote-row {
+  margin-bottom: 100px;
+}
+.lightbulb-txt {
+  color: #e6dbba;
+  font-weight:100;
+  text-shadow: 0px 1px 6px;
+  font-style: normal
+}

@@ -1,9 +1,10 @@
 import React from "react";
+import PortfolioContainer from "../components/PortfolioContainer";
 
 function Portfolio() {
   return(
     <div>
-      <p>You are on the Portfolio page</p>
+      <PortfolioContainer />
     </div>
   )
 }

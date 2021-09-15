@@ -1,0 +1,42 @@
+/* body {
+  background-image: url('./images/CrystalCrag.jpg') no-repeat center center fixed;
+}
+
+a {
+  background-color: cornflowerblue;
+} */
+
+/* .background {
+  background-image: url(./images/CrystalCrag.jpg);
+  background-size: 100%;
+  min-height: 600px;
+  background-repeat: no-repeat;
+} */
+/* body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+} */
+
+body {
+  background-image: url(./images/CrystalCrag.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  /* min-height: 100vh; */
+  /* background-size: 100%; */
+  /* backdrop-filter: blur(2px) grayscale(100%) brightness(50%); */
+  /* display: flex; */
+  /* flex-direction: column; */
+}
+
+.background-filter {
+  backdrop-filter: blur(2px) grayscale(100%) brightness(50%);
+  min-height: 100vh;
+  
+}
+
+.text-is-brightness {
+  color: #e6dbba;
+}
+
+

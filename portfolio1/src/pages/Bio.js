@@ -1,9 +1,10 @@
 import React from "react";
+import BioText from "../components/BioText";
 
 function Bio() {
   return(
     <div>
-      <p>You are on the Bio page</p>
+      <BioText />
     </div>
   )
 }
